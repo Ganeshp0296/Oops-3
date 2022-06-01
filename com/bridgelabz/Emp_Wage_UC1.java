@@ -10,5 +10,6 @@ public class Emp_Wage_UC1 {
 			System.out.println("Employee is Present");
 		else
 			System.out.println("Employee is Abscent");
+		
 	}
 }

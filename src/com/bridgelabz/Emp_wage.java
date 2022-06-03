@@ -103,7 +103,6 @@ public class Emp_wage {
 	
 	
 }
-	
 
 
 class Main extends Emp_wage {  // use inheritance

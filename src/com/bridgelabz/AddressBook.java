@@ -198,7 +198,6 @@ public class AddressBook {
 			System.out.println(b.toString());
 		}
 	}
-
 	/**
 	 * method for create/add new contact
 	 */

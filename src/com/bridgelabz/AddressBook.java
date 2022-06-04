@@ -193,8 +193,7 @@ public class AddressBook {
 
 	/* To display contact */
 	private void read(ArrayList<Contacts> contactList) {
-		// TODO Auto-generated method stub
-		for (Contacts b : contactList) {
+			for (Contacts b : contactList) {
 			System.out.println(b.toString());
 		}
 	}
